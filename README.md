@@ -1,0 +1,2 @@
+# somok-detector
+smoke
